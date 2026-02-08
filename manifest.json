@@ -1,6 +1,6 @@
 {
-    "name": "lucky_draw_app",
-    "short_name": "lucky_draw_app",
+    "name": "quayso_pullman",
+    "short_name": "quayso_pullman",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
